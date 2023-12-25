@@ -45,7 +45,7 @@
   
   <ul>
     {#each data as item}
-      <li>{item.Coluna01}: dobro é {item.Coluna01*2}</li>
+      <li>{item.Coluna01}</li>
     {/each}
   </ul>
   
