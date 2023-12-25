@@ -49,5 +49,5 @@
     {/each}
   </ul>
 
-<p>Alterado no github</p>
+<p>Alterado no github e no vscode</p>
   
