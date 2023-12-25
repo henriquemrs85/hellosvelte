@@ -49,6 +49,5 @@
     {/each}
   </ul>
 
-<p>Alterado no github e no vscode</p>
-<p>Alterado após publicado no Vercel</p>
+<p>Alterado no github</p>
   
